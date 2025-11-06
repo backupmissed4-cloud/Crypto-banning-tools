@@ -1,4 +1,4 @@
-
+wanted 
 # Crypto Lord Ban Tool
 
 This is a Python CLI tool that allows you to simulate banning a phone number (permanently or temporarily) Using the greatest Command easily on termux 
